@@ -7,3 +7,5 @@ Description: See SO (https://tinyurl.com/s7h6hm6n).
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.1
+URL: https://github.com/D-Se/globalbinding
+BugReports: https://github.com/D-Se/globalbinding/issues
