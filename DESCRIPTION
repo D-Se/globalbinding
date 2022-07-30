@@ -1,0 +1,9 @@
+Package: globalbinding
+Title: lintr and globalbinding error
+Version: 1.0
+Author: Donald Seinen
+Maintainer: Donald Seinen <2869830202@qq.com>
+Description: See SO (https://tinyurl.com/s7h6hm6n).
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.2.1
