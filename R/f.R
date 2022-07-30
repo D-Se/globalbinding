@@ -1,4 +1,4 @@
-#' funcion title
+#' function title
 #'
 #' @export
 f1 <- function() {
